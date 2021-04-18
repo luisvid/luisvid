@@ -1,4 +1,4 @@
-### Hi there 👋 I’m Luis
+### Hi there, I’m [Luis](https://www.linkedin.com/in/luisvidela/)! 👋
 
 **I’m a self-starter software developer with over twenty years’ experience and a keen interest in blockchain.**
 
@@ -10,6 +10,9 @@
 * RSK Certified developer trainer: Blockchain & Smart contracts, 2018, RSK Labs
 * MEAN.JS stack back-end developer: REST APIs, Mongo DB, MySQL, Mocha, Istanbul, Travis, Docker
 * Java applications: Spring Boot, RESTful web services
+
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) Luis Videla](https://www.linkedin.com/in/luisvidela/)
 
 📫 luisvid@gmail.com
 
