@@ -1,8 +1,8 @@
 ### Hi there 👋 I’m Luis
 
-I’m a self-starter software developer with over twenty years’ experience and a keen interest in blockchain.
+**I’m a self-starter software developer with over twenty years’ experience and a keen interest in blockchain.**
 
-##### Skills & Expertise**
+##### Skills & Expertise #####
 
 * Certified Scrum Master®
 * Java applications: Spring Boot, RESTful web services
