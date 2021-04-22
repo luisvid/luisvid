@@ -5,6 +5,7 @@
 #### Skills & Expertise ####
 
 * Certified Scrum Master®
+* Early stage startups mentor
 * Blockchain developer: custom tokens, decentralized apps, Solidity, web3.js 
 * Consensys Academy: Ethereum Developer Program Online Bootcamp 2019 (BDB-S19)
 * RSK Certified developer trainer: Blockchain & Smart contracts, 2018, RSK Labs
