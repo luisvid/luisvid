@@ -4,7 +4,8 @@
 
 #### Skills & Expertise ####
 
-* Certified Scrum Master®
+* Certified Scrum Master
+* * Certified Scrum Product Owner
 * Early stage startups mentor
 * Blockchain developer: custom tokens, decentralized apps, Solidity, web3.js 
 * Consensys Academy: Ethereum Developer Program Online Bootcamp 2019 (BDB-S19)
