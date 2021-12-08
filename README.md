@@ -10,8 +10,8 @@
 * Blockchain developer: custom tokens, decentralized apps, Solidity, web3.js 
 * Consensys Academy: Ethereum Developer Program Online Bootcamp 2019 (BDB-S19)
 * RSK Certified developer trainer: Blockchain & Smart contracts, 2018, RSK Labs
-* MEAN.JS stack back-end developer: REST APIs, Mongo DB, MySQL, Mocha, Istanbul, Travis, Docker
-* Java applications: Spring Boot, RESTful web services
+* MEAN.JS stack back-end developer: REST APIs, LoopBack 4, Mongo DB, PostgreSQL, Docker
+* Java applications: Spring Boot, RESTful web services, JHipster
 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Luis Videla](https://www.linkedin.com/in/luisvidela/)
