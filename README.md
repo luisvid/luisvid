@@ -1,6 +1,8 @@
 ### Hi there, I’m [Luis](https://www.linkedin.com/in/luisvidela/)! 👋
 
-**I’m a self-starter software developer with over twenty years’ experience and a keen interest in blockchain.**
+I'm a software developer and technology enthusiast. I love solving existing problems with new technologies and turning them into profitable businesses. With over 20 years of experience in developing solutions with relational and non-relational databases, distributed architectures, web, APIs, microservices, and whatever the next big thing in architecture may be. Currently, I'm working with Node.js and Solidity, designing, programming, and implementing smart contracts for Ethereum-compatible networks. I'm passionate about the possibilities that blockchain development brings and truly believe that this technology is here to stay and transform the way we interact and do business.
+
+Let's connect!
 
 #### Skills & Expertise ####
 
