@@ -1,8 +1,10 @@
 ### Hi there, I’m [Luis](https://www.linkedin.com/in/luisvidela/)! 👋
 
-As an experienced software developer with over 20 years under my belt, I am deeply passionate about leveraging emerging technologies to address real-world challenges and transform them into viable business ventures. My expertise spans relational and non-relational databases, distributed architectures, web development, APIs, and microservices. Currently, I'm immersed in the world of Node.js and Solidity, crafting and deploying smart contracts for Ethereum-compatible networks. My conviction in the transformative potential of blockchain technology drives me. I'm not only an advocate but also an educator in this space. As a Solidity instructor, I've mentored numerous developers in blockchain techniques and have been at the forefront of community engagement, organizing events and courses in my city to further the blockchain cause.
+For over two decades, I've been immersed in the ever-evolving landscape of software development, with a particular emphasis on distributed systems and comprehensive web solutions. The transformative shifts I've witnessed over the years have both challenged and enriched my professional journey.
 
-Let's connect!
+Currently, I'm deeply engaged with Node.js and Solidity, meticulously constructing smart contracts for Ethereum-compatible networks. I hold a profound belief in the transformative potential of blockchain technology. My commitment goes beyond mere belief; I actively contribute by educating others in Solidity and nurturing the next wave of blockchain professionals.
+
+Should you share an interest in these domains or wish to engage in a discussion about the latest technological advancements, please don't hesitate to reach out. I always welcome insightful conversations on the subject.
 
 #### Skills & Expertise ####
 
