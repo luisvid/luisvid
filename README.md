@@ -18,6 +18,8 @@ Should you share an interest in these domains or wish to engage in a discussion 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Luis Videla](https://www.linkedin.com/in/luisvidela/)
 
+📄 [my Substack](https://luisvid.substack.com/)
+
 📫 luisvid@gmail.com
 
 <!--
