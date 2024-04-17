@@ -15,12 +15,12 @@ Should you share an interest in these domains or wish to engage in a discussion 
 * Certified Scrum Product Owner
 * Certified Scrum Master
 
+#### let's connect
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) Luis Videla](https://www.linkedin.com/in/luisvidela/)
-
-📄 [my Substack](https://luisvid.substack.com/)
-
-📫 luisvid@gmail.com
+- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Luis Videla](https://www.linkedin.com/in/luisvidela/)
+- 📄 [my Substack](https://luisvid.substack.com/)
+- 🌴 [Linktree](https://linktr.ee/luisvid)
+- 📫 luisvid@gmail.com
 
 <!--
 **luisvid/luisvid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
