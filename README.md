@@ -1,26 +1,36 @@
+
 ### Hi there, I’m [Luis](https://www.linkedin.com/in/luisvidela/)! 👋
 
-For over two decades, I've been immersed in the ever-evolving landscape of software development, with a particular emphasis on distributed systems and comprehensive web solutions. The transformative shifts I've witnessed over the years have both challenged and enriched my professional journey.
+With over 20 years in software development, I specialize in **backend, blockchain, and AI-driven solutions**. My career has spanned distributed systems, microservices, and developer tooling, combining technical expertise with a passion for teaching and community building.
 
-Currently, I'm deeply engaged with Node.js and Solidity, meticulously constructing smart contracts for Ethereum-compatible networks. I hold a profound belief in the transformative potential of blockchain technology. My commitment goes beyond mere belief; I actively contribute by educating others in Solidity and nurturing the next wave of blockchain professionals.
+Currently, I work as a **Blockchain, Backend & AI Developer at Globant**, where I contribute to high-impact projects such as:
 
-Should you share an interest in these domains or wish to engage in a discussion about the latest technological advancements, please don't hesitate to reach out. I always welcome insightful conversations on the subject.
+* Building **AI-powered research platforms** with multi-LLM integration (OpenAI, Azure OpenAI, Together AI), vector search (Qdrant, ChromaDB), and observability (OpenTelemetry, Traceloop).
+* Modernizing enterprise platforms through **Node.js/TypeScript microservices** with PostgreSQL, Redis, Docker, and AI automation.
+* Designing **fan-engagement and loyalty platforms** using NFTs on Aptos, with wallet management via Fireblocks and NFT minting via Crossmint.
 
-#### Skills & Expertise ####
+Beyond my role, I actively **mentor and teach Solidity and blockchain development**, having onboarded 100+ new developers across Latin America. I believe in the transformative power of blockchain and AI, and enjoy fostering innovation at the intersection of both.
 
-* Solidity developer: Proficient in designing, building, and deploying smart contracts for Ethereum and EVM compatible chains
-* Node.js back-end developer: Skilled in developing RESTful web services using technologies such as LoopBack 4, Node.js, NestJS, Mongo DB, PostgreSQL, and Docker
-* Consensys Academy: Ethereum Developer Program Online Bootcamp 2019 (BDB-S19)
-* Early Stage Startups Mentor: Experienced in providing guidance and support to early-stage startups
-* Certified Scrum Product Owner
-* Certified Scrum Master
+---
 
-#### let's connect
+#### Skills & Expertise
 
-- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Luis Videla](https://www.linkedin.com/in/luisvidela/)
-- 📄 [my Substack](https://luisvid.substack.com/)
-- 🌴 [Linktree](https://linktr.ee/luisvid)
-- 📫 luisvid@gmail.com
+* **Blockchain Development:** Solidity smart contracts for Ethereum/EVM, NFTs, tokenomics, Aptos ecosystem
+* **Backend Engineering:** Node.js, NestJS, LoopBack 4, TypeScript, PostgreSQL, MongoDB, Redis, Docker
+* **AI & LLMs:** Multi-LLM orchestration (OpenAI, Azure OpenAI, Together AI), RAG pipelines (LangChain, LangGraph), vector DBs (Qdrant, ChromaDB), observability (OpenTelemetry, Traceloop)
+* **Developer Tools:** FastAPI bots, VSCode extensions, microservices architecture
+* **Mentorship & Teaching:** Solidity instructor at ETH Kipu and other organizations, guiding 100+ developers into Web3
+* **Certifications:** ConsenSys Academy Ethereum Developer (2019), Certified Scrum Product Owner, Certified Scrum Master
+
+---
+
+#### Let’s Connect
+
+* [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Luis Videla](https://www.linkedin.com/in/luisvidela/)
+* 📄 [My Substack](https://luisvid.substack.com/)
+* 🌴 [Linktree](https://linktr.ee/luisvid)
+* 📫 [luisvid@gmail.com](mailto:luisvid@gmail.com)
+
 
 <!--
 **luisvid/luisvid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
