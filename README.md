@@ -1,48 +1,43 @@
-
 ### Hi there, I’m [Luis](https://www.linkedin.com/in/luisvidela/)! 👋
 
-With over 20 years in software development, I specialize in **backend, blockchain, and AI-driven solutions**. My career has spanned distributed systems, microservices, and developer tooling, combining technical expertise with a passion for teaching and community building.
+I’m a **Senior AI Engineer & Blockchain Engineer** with **20+ years of experience in software development**, specializing in **AI systems, multi-agent LLM architectures, and production-grade blockchain platforms**.
 
-Currently, I work as a **Blockchain, Backend & AI Developer at Globant**, where I contribute to high-impact projects such as:
+My work focuses on **designing and evolving complex systems**: from **AI-powered research and intelligence platforms** to **tokenized Web3 infrastructures**, always with an emphasis on architecture, scalability, and real-world impact.
 
-* Building **AI-powered research platforms** with multi-LLM integration (OpenAI, Azure OpenAI, Together AI), vector search (Qdrant, ChromaDB), and observability (OpenTelemetry, Traceloop).
-* Modernizing enterprise platforms through **Node.js/TypeScript microservices** with PostgreSQL, Redis, Docker, and AI automation.
-* Designing **fan-engagement and loyalty platforms** using NFTs on Aptos, with wallet management via Fireblocks and NFT minting via Crossmint.
+Currently, I work at **Globant**, where I contribute to high-impact initiatives such as:
 
-Beyond my role, I actively **mentor and teach Solidity and blockchain development**, having onboarded 100+ new developers across Latin America. I believe in the transformative power of blockchain and AI, and enjoy fostering innovation at the intersection of both.
+- Architecting **AI-powered research and competitive intelligence platforms** using **multi-agent LLM orchestration**, RAG pipelines, and vector databases.
+- Modernizing legacy enterprise systems into **cloud-native microservices** with **Node.js, TypeScript, PostgreSQL, Redis, and Docker**, often leveraging **AI-assisted development workflows**.
+- Building **fan engagement and loyalty platforms** powered by **NFTs on Aptos**, integrating secure wallet infrastructure with **Fireblocks** and NFT minting via **Crossmint**.
 
----
+Beyond industry work, I actively **contribute to open-source Web3 tooling** and **teach blockchain engineering and Solidity**, having onboarded **100+ developers** into professional Web3 development across Latin America.
 
-#### Skills & Expertise
-
-* **Blockchain Development:** Solidity smart contracts for Ethereum/EVM, NFTs, tokenomics, Aptos ecosystem
-* **Backend Engineering:** Node.js, NestJS, LoopBack 4, TypeScript, PostgreSQL, MongoDB, Redis, Docker
-* **AI & LLMs:** Multi-LLM orchestration (OpenAI, Azure OpenAI, Together AI), RAG pipelines (LangChain, LangGraph), vector DBs (Qdrant, ChromaDB), observability (OpenTelemetry, Traceloop)
-* **Developer Tools:** FastAPI bots, VSCode extensions, microservices architecture
-* **Mentorship & Teaching:** Solidity instructor at ETH Kipu and other organizations, guiding 100+ developers into Web3
-* **Certifications:** ConsenSys Academy Ethereum Developer (2019), Certified Scrum Product Owner, Certified Scrum Master
+I’m particularly interested in the intersection of **AI engineering, blockchain systems, and product strategy**, and how these technologies can be applied to build robust, long-lived platforms.
 
 ---
 
-#### Let’s Connect
+### 🧠 Skills & Focus Areas
 
-* [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Luis Videla](https://www.linkedin.com/in/luisvidela/)
-* 📄 [My Substack](https://luisvid.substack.com/)
-* 🌴 [Linktree](https://linktr.ee/luisvid)
-* 📫 [luisvid@gmail.com](mailto:luisvid@gmail.com)
+- **AI Engineering:**  
+  Multi-agent LLM systems, RAG architectures, LangGraph, LangChain, LiteLLM, vector databases (Qdrant, ChromaDB), LLM providers (OpenAI, Azure OpenAI, Together AI)
 
+- **Blockchain Engineering:**  
+  Solidity, Ethereum & EVM ecosystems, NFTs, wallet infrastructure, tokenized platforms, Aptos
 
-<!--
-**luisvid/luisvid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Backend & Cloud Systems:**  
+  Node.js, TypeScript, NestJS, LoopBack 4, FastAPI, PostgreSQL, MongoDB, Redis, Docker, microservices architectures
 
-Here are some ideas to get you started:
+- **Developer Tooling & Platforms:**  
+  AI-powered bots, internal tools, APIs, automation pipelines, developer experience tooling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Mentorship & Education:**  
+  Blockchain & Solidity instructor (ETH Kipu and other programs), mentoring developers and early-stage teams
+
+---
+
+### 🔗 Let’s Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/luisvidela/)
+- ✍️ [Substack](https://luisvid.substack.com/)
+- 🌐 [Linktree](https://linktr.ee/luisvid)
+- 📫 [luisvid@gmail.com](mailto:luisvid@gmail.com)
